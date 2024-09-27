@@ -2,7 +2,7 @@
 
 This is a list of human trafficking hotlines in the USA, Canada, and Mexico, intended to be used by applications that want to use geolocation to show their users the most relevant hotlines that they can call to report instances of human trafficking. The list is vetted by TAT (Truckers Against Trafficking).
 
-If you use this repository, please contact TAT at appdev@tatnonprofit.org. We want to know if our work is making an impact!
+If you use this repository, please contact TAT at appdev@tatnonprofit.org. We request that if you use this data you also provide us with analytics. We would also like to keep in touch with you so we can share updates to this data as it becomes available. Information on how this data is used is vitally important to us as we seek to understand and measure our impact.
 
 ## Summary of the data
 
