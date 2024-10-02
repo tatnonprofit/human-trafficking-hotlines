@@ -1,6 +1,6 @@
 [
     {
-        "phoneNumber": "855-363-6548",
+        "phoneNumber": "+1 855-363-6548",
         "hotlineType": "state",
         "name": {
             "en-us": "New Jersey Human Trafficking Hotline",
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "phoneNumber": "888-373-7888",
+        "phoneNumber": "+1 888-373-7888",
         "hotlineType": "victim",
         "name": {
             "en-us": "National Human Trafficking Hotline",
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "phoneNumber": "866-455-5075",
+        "phoneNumber": "+1 866-455-5075",
         "hotlineType": "state",
         "name": {
             "en-us": "Colorado Human Trafficking Hotline",
@@ -41,7 +41,7 @@
         ]
     },
     {
-        "phoneNumber": "833-900-1010",
+        "phoneNumber": "+1 833-900-1010",
         "hotlineType": "national",
         "name": {
             "en-us": "Canadian Human Trafficking Hotline",
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "phoneNumber": "+018005533000",
+        "phoneNumber": "+52 800-5533-000",
         "hotlineType": "national",
         "name": {
             "en-us": "Mexico Human Trafficking Hotline",
@@ -69,22 +69,7 @@
         ]
     },
     {
-        "phoneNumber": "911",
-        "hotlineType": "emergency",
-        "name": {
-            "en-us": "911",
-            "es-mx": "911",
-            "fr-ca": "911"
-        },
-        "regionCode": "Custom region: Tri-country (USA, Canada, and Mexico)",
-        "supportedLanguages": [
-            "en-us",
-            "es-mx",
-            "fr-ca"
-        ]
-    },
-    {
-        "phoneNumber": "877-429-8477",
+        "phoneNumber": "+1 877-429-8477",
         "hotlineType": "state",
         "name": {
             "en-us": "ACTIC Human Trafficking Tip Line (Arizona)",
@@ -97,7 +82,7 @@
         ]
     },
     {
-        "phoneNumber": "855-558-6484",
+        "phoneNumber": "+1 855-558-6484",
         "hotlineType": "state",
         "name": {
             "en-us": "Tennessee Human Trafficking Hotline",
@@ -110,7 +95,7 @@
         ]
     },
     {
-        "phoneNumber": "866-363-4842",
+        "phoneNumber": "+1 866-363-4842",
         "hotlineType": "state",
         "name": {
             "en-us": "Georgia Coalition to End Human Trafficking",
@@ -123,7 +108,7 @@
         ]
     },
     {
-        "phoneNumber": "833-757-5665",
+        "phoneNumber": "+1 833-757-5665",
         "hotlineType": "state",
         "name": {
             "en-us": "Nebraska Human Trafficking Hotline",
@@ -136,7 +121,7 @@
         ]
     },
     {
-        "phoneNumber": "718-250-2770",
+        "phoneNumber": "+1 718-250-2770",
         "hotlineType": "regional",
         "name": {
             "en-us": "Kings County District Attorney's Office Human Trafficking Hotline",
@@ -146,6 +131,51 @@
         "regionCode": "Custom region: Kings County, New York",
         "supportedLanguages": [
             "en-us",
+            "es-mx"
+        ]
+    },
+    {
+        "phoneNumber": "911",
+        "hotlineType": "emergency",
+        "name": {
+            "en-us": "911",
+            "fr-ca": "911",
+            "es-mx": "911"
+        },
+        "regionCode": "US",
+        "supportedLanguages": [
+            "en-us",
+            "es-mx",
+            "fr-ca"
+        ]
+    },
+    {
+        "phoneNumber": "911",
+        "hotlineType": "emergency",
+        "name": {
+            "en-us": "911",
+            "fr-ca": "911",
+            "es-mx": "911"
+        },
+        "regionCode": "MX",
+        "supportedLanguages": [
+            "es-mx",
+            "en-us",
+            "fr-ca"
+        ]
+    },
+    {
+        "phoneNumber": "911",
+        "hotlineType": "emergency",
+        "name": {
+            "en-us": "911",
+            "fr-ca": "911",
+            "es-mx": "911"
+        },
+        "regionCode": "CA",
+        "supportedLanguages": [
+            "en-us",
+            "fr-ca",
             "es-mx"
         ]
     }
