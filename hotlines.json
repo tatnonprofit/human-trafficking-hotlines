@@ -178,5 +178,31 @@
             "fr-ca",
             "es-mx"
         ]
+    },
+    {
+        "phoneNumber": "+1 855-452-5437",
+        "hotlineType": "state",
+        "name": {
+            "en-us": "Louisiana Department of Children and Family Services Child Protection Hotline",
+            "es-mx": "Línea de Protección Infantil del Departamento de Servicios para Niños y Familias de Louisiana",
+            "fr-ca": "Département de l'enfance et des services familiaux de la Louisiane Ligne d'assistance téléphonique pour la protection de l'enfance"
+        },
+        "regionCode": "US-LA",
+        "supportedLanguages": [
+            "en-us"
+        ]
+    },
+    {
+        "phoneNumber": "+1 844-363-6448",
+        "hotlineType": "state",
+        "name": {
+            "en-us": "Ohio Human Trafficking Hotline",
+            "fr-ca": "Ligne d'assistance téléphonique sur la traite des êtres humains de l'Ohio",
+            "es-mx": "Línea Directa de Ohio Contra la Trata de Personas"
+        },
+        "regionCode": "US-OH",
+        "supportedLanguages": [
+            "en-us"
+        ]
     }
 ]
